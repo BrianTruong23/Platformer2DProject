@@ -10,6 +10,8 @@ When the player touches a coin, the coin disappears and the coin counter updates
 
 ## Level Description
 
+![Gameplay screenshot](screenshots/gameplay.png)
+
 The level is a castle-themed platform challenge with floating stone platforms, fire hazards along the bottom of the map, enemy characters, collectible coins, and a goal flag near the end. The coin counter appears in the top-left corner so the player can track progress while moving through the level.
 
 Players need to jump between platforms, avoid falling into the fire, dodge enemies, collect enough coins, and then reach the flag to clear the level.
